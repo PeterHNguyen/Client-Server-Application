@@ -1,13 +1,3 @@
-/*
-Name: <Peter Nguyen>
-Course: CNT 4714 Spring 2025
-Assignment title: Project 3 – A Specialized Accountant Application
-Date: March 14, 2025
-Class: Secondary
-*/
-
-
-
 import javax.swing.*;
 import java.awt.*;
 import java.io.InputStream;
