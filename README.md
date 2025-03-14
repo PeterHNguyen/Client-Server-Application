@@ -1,4 +1,4 @@
-# Two Tier Clien Server Applicatopm
+# Two Tier Clien Server Application
 
 ## Description
 - This project implements a two-tier client-server application that allows users to connect to a MySQL database, execute SQL queries, and display results in a graphical user interface (GUI).
