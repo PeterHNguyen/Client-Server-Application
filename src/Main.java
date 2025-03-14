@@ -1,11 +1,3 @@
-/*
-Name: <Peter Nguyen>
-Course: CNT 4714 Spring 2025
-Assignment title: Project 3 – A Two-tier Client-Server Application
-Date: March 14, 2025
-Class: <Main>
-*/
-
 import javax.swing.*;
 import java.awt.*;
 import java.io.InputStream;
